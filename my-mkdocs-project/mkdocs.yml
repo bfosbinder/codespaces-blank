@@ -4,4 +4,4 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Guide: guide.md
+  - Work Instructions: Work_Instructions/Landing_page.md
