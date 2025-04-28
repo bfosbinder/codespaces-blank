@@ -1,0 +1,7 @@
+site_name: My MkDocs Project
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - About: about.md
+  - Guide: guide.md
